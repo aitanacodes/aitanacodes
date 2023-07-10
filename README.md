@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Aitana 👋
+
+## About me - EN 🇬🇧
+---
+> Recently graduated, actively looking for my first job as a developer and learning daily to be able to work as a **front-end developer** in technologies such as **REACT, JavaScript, CSS (Styled Components and Tailwind)**. 
+
+I am a very creative, understanding and communicative person.
+
+- 📫 How to reach me: find me in [LinkedIn](https://www.linkedin.com/in/aitanahp/)
 
 <!--
 **aitanacodes/aitanacodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
