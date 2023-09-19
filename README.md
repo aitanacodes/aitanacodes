@@ -16,7 +16,7 @@
 
 ---
 
-- 🌱 I’m currently learning: REACT and JS
+- 🌱 I’m currently learning: REACT,JavaScript and TypeScript.
 - 📫 How to reach me: find me in [LinkedIn](https://www.linkedin.com/in/aitanahp/)
 - ⚡ Fun fact: I enjoy to play videogames, specially MMO-RPG
   
